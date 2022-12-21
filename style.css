@@ -36,9 +36,6 @@ html, body {
   z-Index: 2;
 }
 #mystery {
-  text-align: right;
-}
-.centerstuff {
-  text-align: center;
-  width: 100%;
+  text-align: top;
+  color: red;
 }
