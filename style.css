@@ -17,5 +17,6 @@
   cursor: pointer;
   text-align: center;
   color: green;
+  position: absolute;
   z-Index: 2;
 }
