@@ -39,5 +39,6 @@ html, body {
   text-align: center;
   vertical-align: top;
   color: red;
+  position: relative;
   z-Index: 2
 }
