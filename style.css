@@ -40,5 +40,5 @@ html, body {
   /*vertical-align: top;*/
   color: red;
   position: relative;
-  z-Index: 2
+  z-Index: 2;
 }
