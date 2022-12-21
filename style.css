@@ -33,9 +33,11 @@ html, body {
   text-align: center;
   color: green;
   position: absolute;
-  z-Index: 2;
+  z-Index: 3;
 }
 #mystery {
-  text-align: top;
+  text-align: center;
+  vertical-align: top;
   color: red;
+  z-Index: 2
 }
