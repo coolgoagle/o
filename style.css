@@ -37,7 +37,7 @@ html, body {
 }
 #mystery {
   text-align: center;
-  vertical-align: top;
+  /*vertical-align: top;*/
   color: red;
   position: relative;
   z-Index: 2
