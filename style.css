@@ -41,6 +41,6 @@ html, body {
   color: red;
   background-color: black;
   position: relative;
-  font-size: 60;
+  font-size: 60px;
   z-Index: 2;
 }
