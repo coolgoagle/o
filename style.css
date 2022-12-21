@@ -15,4 +15,5 @@
   font-size: 16px;
   cursor: pointer;
   text-align: center;
+  z-Index: 999;
 }
