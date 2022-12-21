@@ -35,7 +35,7 @@ html, body {
   position: absolute;
   z-Index: 3;
 }
-.mystery {
+#mystery {
   text-align: center;
   /*vertical-align: top;*/
   color: red;
