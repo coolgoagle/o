@@ -28,7 +28,7 @@ html, body {
   border: none;
   background-color: #000000;
   padding: 14px 28px;
-  font-size: 26vh;
+  font-size: 14vw;
   cursor: pointer;
   text-align: center;
   color: green;
@@ -41,6 +41,6 @@ html, body {
   color: red;
   background-color: black;
   position: relative;
-  font-size: 6vh;
+  font-size: 4vw;
   z-Index: 2;
 }
