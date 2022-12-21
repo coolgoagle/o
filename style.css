@@ -35,3 +35,7 @@ html, body {
   position: absolute;
   z-Index: 2;
 }
+.centerstuff {
+  text-align: center;
+  width: 100%;
+}
