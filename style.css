@@ -39,6 +39,8 @@ html, body {
   text-align: center;
   /*vertical-align: top;*/
   color: red;
+  background-color: black;
   position: relative;
+  font-size: 20px
   z-Index: 2;
 }
