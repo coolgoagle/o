@@ -35,6 +35,9 @@ html, body {
   position: absolute;
   z-Index: 2;
 }
+#mystery {
+  text-align: right;
+}
 .centerstuff {
   text-align: center;
   width: 100%;
