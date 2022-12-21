@@ -7,7 +7,7 @@ html, body {
   background-color:black;
 }
 #rick {
-  position: fixed;
+  position: absolute;
   /*position: relative;*/
   right: 0;
   bottom: 0;
